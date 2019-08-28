@@ -1,9 +1,5 @@
-# resekl
+# 2019-08-22 - Project Overview
 
-This is a skeleton repository for any sort of research. I developed this in order to build some sort of systematic approach for initiating a research project. There isn't much here but that should change as the research develops.
+This project is taking place over a six week rotation in the Bahl Lab. The focus of the lab is phylodynamics (how the viral phylogenies are shaped by epidemiology, immunodynamics, and evolutionary processes alone or by some interaction (Grenfell et al. 2004; Volz et al. 2013)).
 
-There are three important folders here:
-
-1. `src` - All source code used during research should be going here.
-2. `data` - All data generated or simulated during research should be going here.
-3. `notebook` - All notes during the research process should be going here. This should be used very much like a lab notebook that you have on the bench. Take notes on why you are doing things a certain way, problems that you are having, and any other details that should be documented to reduce confusion later on.
+Phylodynamics is a diverse field that is moving quickly. Similar to many fields of study today, one can get lost quickly in the chaos. I tried to get specific, keep it simple (given a the limited time of six weeks) but yet have some fun (why not, right?). After reading through some literature, my interests bifurcated into research around inter-host transmission of specific influenza A types (while looking at possible spillover events) and reassortment events during coinfection (are there segments that reassort non-randomly?).
