@@ -1,22 +1,22 @@
-KP458762,H3N2,HA,Human,Human,China,Anhui Fuyang Yingzhou,20090903
+KP458762,H3N2,HA,Human,Human,China,Anhui-Fuyang-Yingzhou,20090903
 CY108638,H3N2,HA,Human,Human,China,Anhui-Baohe,20070313
 CY108785,H3N2,HA,Human,Human,China,Anhui-Baohe,20080101
 CY108639,H3N2,HA,Human,Human,China,Anhui-Huashan,20070130
-KP456321,H3N2,HA,Human,Human,China,Beijing Chaoyang,20091112
-KP459340,H3N2,HA,Human,Human,China,Beijing Chaoyang,20100105
-KP458069,H3N2,HA,Human,Human,China,Beijing Chaoyang,20100106
-KP457149,H3N2,HA,Human,Human,China,Beijing Chaoyang,20100105
-KP457453,H3N2,HA,Human,Human,China,Beijing Chaoyang,20100111
-KP458302,H3N2,HA,Human,Human,China,Beijing Huairou,20091125
-KP458961,H3N2,HA,Human,Human,China,Beijing Huairou,20110130
-KP459201,H3N2,HA,Human,Human,China,Beijing Huairou,20101003
-KP459354,H3N2,HA,Human,Human,China,Beijing Huairou,20101214
-KP457305,H3N2,HA,Human,Human,China,Beijing Xicheng,20090210
-KP458484,H3N2,HA,Human,Human,China,Beijing Xicheng,20101101
-KP458428,H3N2,HA,Human,Human,China,Beijing Xicheng,20110208
-KP459322,H3N2,HA,Human,Human,China,Beijing Xicheng,20100103
-KP456692,H3N2,HA,Human,Human,China,Beijing Xicheng,20110222
-KP458924,H3N2,HA,Human,Human,China,Beijing Xicheng,20070110
+KP456321,H3N2,HA,Human,Human,China,Beijing-Chaoyang,20091112
+KP459340,H3N2,HA,Human,Human,China,Beijing-Chaoyang,20100105
+KP458069,H3N2,HA,Human,Human,China,Beijing-Chaoyang,20100106
+KP457149,H3N2,HA,Human,Human,China,Beijing-Chaoyang,20100105
+KP457453,H3N2,HA,Human,Human,China,Beijing-Chaoyang,20100111
+KP458302,H3N2,HA,Human,Human,China,Beijing-Huairou,20091125
+KP458961,H3N2,HA,Human,Human,China,Beijing-Huairou,20110130
+KP459201,H3N2,HA,Human,Human,China,Beijing-Huairou,20101003
+KP459354,H3N2,HA,Human,Human,China,Beijing-Huairou,20101214
+KP457305,H3N2,HA,Human,Human,China,Beijing-Xicheng,20090210
+KP458484,H3N2,HA,Human,Human,China,Beijing-Xicheng,20101101
+KP458428,H3N2,HA,Human,Human,China,Beijing-Xicheng,20110208
+KP459322,H3N2,HA,Human,Human,China,Beijing-Xicheng,20100103
+KP456692,H3N2,HA,Human,Human,China,Beijing-Xicheng,20110222
+KP458924,H3N2,HA,Human,Human,China,Beijing-Xicheng,20070110
 CY108826,H3N2,HA,Human,Human,China,Beijing-Xicheng,20090201
 CY108640,H3N2,HA,Human,Human,China,Beijing-Xicheng,20070108
 CY108641,H3N2,HA,Human,Human,China,Beijing-Xicheng,20070108
@@ -183,18 +183,18 @@ MH393248,H3N2,HA,Human,Human,China,NA,20161128
 MH393249,H3N2,HA,Human,Human,China,NA,20161212
 MK053905,H3N2,HA,Human,Human,China,NA,20170601
 MH393254,H3N2,HA,Human,Human,China,NA,20170920
-KP457508,H3N2,HA,Human,Human,China,Chongqing Banan,20100625
-KP457424,H3N2,HA,Human,Human,China,Chongqing Wanzhou,20110220
-KP458095,H3N2,HA,Human,Human,China,Chongqing Yongchuan,20080401
-KP458096,H3N2,HA,Human,Human,China,Chongqing Yuzhong,20070227
-KP458759,H3N2,HA,Human,Human,China,Chongqing Yuzhong,20100720
-KP458989,H3N2,HA,Human,Human,China,Chongqing Yuzhong,20100720
+KP457508,H3N2,HA,Human,Human,China,Chongqing-Banan,20100625
+KP457424,H3N2,HA,Human,Human,China,Chongqing-Wanzhou,20110220
+KP458095,H3N2,HA,Human,Human,China,Chongqing-Yongchuan,20080401
+KP458096,H3N2,HA,Human,Human,China,Chongqing-Yuzhong,20070227
+KP458759,H3N2,HA,Human,Human,China,Chongqing-Yuzhong,20100720
+KP458989,H3N2,HA,Human,Human,China,Chongqing-Yuzhong,20100720
 CY108646,H3N2,HA,Human,Human,China,Chongqing-Banan,20070212
 CY108875,H3N2,HA,Human,Human,China,Chongqing-Fuling,20090210
-KP456465,H3N2,HA,Human,Human,China,Fujian Gulou,20070726
-KP457567,H3N2,HA,Human,Human,China,Fujian Longyan Xinluo,20100112
-KP458426,H3N2,HA,Human,Human,China,Fujian Sanming Meilie,20100906
-KP458258,H3N2,HA,Human,Human,China,Fujian Siming,20081126
+KP456465,H3N2,HA,Human,Human,China,Fujian-Gulou,20070726
+KP457567,H3N2,HA,Human,Human,China,Fujian-Longyan-Xinluo,20100112
+KP458426,H3N2,HA,Human,Human,China,Fujian-Sanming-Meilie,20100906
+KP458258,H3N2,HA,Human,Human,China,Fujian-Siming,20081126
 CY108909,H3N2,HA,Human,Human,China,Fujian-Fengze,20090501
 CY108928,H3N2,HA,Human,Human,China,Fujian-Fengze,20090701
 CY108804,H3N2,HA,Human,Human,China,Fujian-Gulou,20081009
@@ -215,8 +215,8 @@ KP457182,H3N2,HA,Human,Human,China,Fujian-Tongan,20090303
 CY108817,H3N2,HA,Human,Human,China,Fujian-Tongan,20081125
 CY108857,H3N2,HA,Human,Human,China,Fujian-Tongan,20090501
 CY108920,H3N2,HA,Human,Human,China,Fujian-Xiangcheng,20090601
-KP457367,H3N2,HA,Human,Human,China,Gansu Baiyin,20070108
-KP458960,H3N2,HA,Human,Human,China,Gansu Chengguan,20070104
+KP457367,H3N2,HA,Human,Human,China,Gansu-Baiyin,20070108
+KP458960,H3N2,HA,Human,Human,China,Gansu-Chengguan,20070104
 CY108647,H3N2,HA,Human,Human,China,Gansu-Chengguan,20070118
 CY108648,H3N2,HA,Human,Human,China,Gansu-Chengguan,20070118
 CY108649,H3N2,HA,Human,Human,China,Gansu-Chengguan,20070130
@@ -228,7 +228,7 @@ CY108796,H3N2,HA,Human,Human,China,Gansu-Maiji,20080401
 CY108651,H3N2,HA,Human,Human,China,Gansu-Maiji,20070303
 CY108824,H3N2,HA,Human,Human,China,Gansu-Qingshui,20081226
 CY108652,H3N2,HA,Human,Human,China,Gansu-Qinzhou,20070112
-KP458183,H3N2,HA,Human,Human,China,Guangdong Maoming Maonan,20100907
+KP458183,H3N2,HA,Human,Human,China,Guangdong-Maoming-Maonan,20100907
 KP456378,H3N2,HA,Human,Human,China,Guangdong-Futian,20090715
 CY108930,H3N2,HA,Human,Human,China,Guangdong-Futian,20090701
 CY108918,H3N2,HA,Human,Human,China,Guangdong-Luohu,20090601
@@ -629,12 +629,12 @@ KM208568,H3N2,HA,Human,Human,China,Hangzhou,20131205
 KM208569,H3N2,HA,Human,Human,China,Hangzhou,20131205
 KM208514,H3N2,HA,Human,Human,China,Hangzhou,20120124
 KM208517,H3N2,HA,Human,Human,China,Hangzhou,20120301
-KP458220,H3N2,HA,Human,Human,China,Hebei Baoding Anguo,20100112
-KP457704,H3N2,HA,Human,Human,China,Hebei Qiaodong,20070110
-KP458001,H3N2,HA,Human,Human,China,Hebei Shijiazhuang Xinhua,20090929
-KP456830,H3N2,HA,Human,Human,China,Hebei Shijiazhuang Yuhua,20110112
-KP457737,H3N2,HA,Human,Human,China,Hebei Xinhua,20090629
-KP456767,H3N2,HA,Human,Human,China,Hebei Yunhe,20070113
+KP458220,H3N2,HA,Human,Human,China,Hebei-Baoding-Anguo,20100112
+KP457704,H3N2,HA,Human,Human,China,Hebei-Qiaodong,20070110
+KP458001,H3N2,HA,Human,Human,China,Hebei-Shijiazhuang-Xinhua,20090929
+KP456830,H3N2,HA,Human,Human,China,Hebei-Shijiazhuang-Yuhua,20110112
+KP457737,H3N2,HA,Human,Human,China,Hebei-Xinhua,20090629
+KP456767,H3N2,HA,Human,Human,China,Hebei-Yunhe,20070113
 CY108822,H3N2,HA,Human,Human,China,Hebei-Nanshi,20081213
 CY108653,H3N2,HA,Human,Human,China,Hebei-Nanshi,20070601
 CY108654,H3N2,HA,Human,Human,China,Hebei-Nanshi,20070112
@@ -644,18 +644,18 @@ CY108836,H3N2,HA,Human,Human,China,Hebei-Xinshi,20090101
 CY108656,H3N2,HA,Human,Human,China,Hebei-Xinshi,20070113
 CY108657,H3N2,HA,Human,Human,China,Hebei-Yuhua,20070206
 CY108658,H3N2,HA,Human,Human,China,Hebei-Yunhe,20070112
-KP457160,H3N2,HA,Human,Human,China,Heilongjiang Harbin Nangang,20110308
-KP458446,H3N2,HA,Human,Human,China,Heilongjiang Harbin Nangang,20090915
-KP458942,H3N2,HA,Human,Human,China,Heilongjiang Harbin Xiangfang,20100115
-KP456253,H3N2,HA,Human,Human,China,Heilongjiang Harbin Xiangfang,20100105
-KP458166,H3N2,HA,Human,Human,China,Heilongjiang Hegang Xiangyang,20110309
-KP458829,H3N2,HA,Human,Human,China,Heilongjiang Mudanjiang Longsha,20100409
-KP459143,H3N2,HA,Human,Human,China,Heilongjiang Nangang,20090201
-KP456693,H3N2,HA,Human,Human,China,Heilongjiang Qiqihar Jianhua,20091112
-KP457472,H3N2,HA,Human,Human,China,Heilongjiang Qiqihar Jianhua,20091226
-KP457617,H3N2,HA,Human,Human,China,Heilongjiang Qiqihar Jianhua,20100301
-KP458292,H3N2,HA,Human,Human,China,Heilongjiang Qitaihe Taoshan,20110415
-KP458769,H3N2,HA,Human,Human,China,Heilongjiang Xiangfang,20090210
+KP457160,H3N2,HA,Human,Human,China,Heilongjiang-Harbin-Nangang,20110308
+KP458446,H3N2,HA,Human,Human,China,Heilongjiang-Harbin-Nangang,20090915
+KP458942,H3N2,HA,Human,Human,China,Heilongjiang-Harbin-Xiangfang,20100115
+KP456253,H3N2,HA,Human,Human,China,Heilongjiang-Harbin-Xiangfang,20100105
+KP458166,H3N2,HA,Human,Human,China,Heilongjiang-Hegang-Xiangyang,20110309
+KP458829,H3N2,HA,Human,Human,China,Heilongjiang-Mudanjiang-Longsha,20100409
+KP459143,H3N2,HA,Human,Human,China,Heilongjiang-Nangang,20090201
+KP456693,H3N2,HA,Human,Human,China,Heilongjiang-Qiqihar-Jianhua,20091112
+KP457472,H3N2,HA,Human,Human,China,Heilongjiang-Qiqihar-Jianhua,20091226
+KP457617,H3N2,HA,Human,Human,China,Heilongjiang-Qiqihar-Jianhua,20100301
+KP458292,H3N2,HA,Human,Human,China,Heilongjiang-Qitaihe-Taoshan,20110415
+KP458769,H3N2,HA,Human,Human,China,Heilongjiang-Xiangfang,20090210
 CY108838,H3N2,HA,Human,Human,China,Heilongjiang-Nangang,20090201
 CY108841,H3N2,HA,Human,Human,China,Henan-Jinshui,20090101
 KP765772,H3N2,HA,Human,Human,China,HuNan,20140101
@@ -670,10 +670,10 @@ KU937961,H3N2,HA,Human,Human,China,Huai'an-Qingpu,20141012
 KU937957,H3N2,HA,Human,Human,China,Huai'an-Qingpu,20140925
 KU937956,H3N2,HA,Human,Human,China,Huai'an-Qingpu,20140925
 KU937958,H3N2,HA,Human,Human,China,Huai'an-Qingpu,20141026
-KP458080,H3N2,HA,Human,Human,China,Hubei Enshi Tujia,20100714
-KP458777,H3N2,HA,Human,Human,China,Hubei Jiangan,20100909
-KP458488,H3N2,HA,Human,Human,China,Hubei Wuhan Jiangan,20100906
-KP456554,H3N2,HA,Human,Human,China,Hubei Wuhan Qiaokou,20100906
+KP458080,H3N2,HA,Human,Human,China,Hubei-Enshi-Tujia,20100714
+KP458777,H3N2,HA,Human,Human,China,Hubei-Jiangan,20100909
+KP458488,H3N2,HA,Human,Human,China,Hubei-Wuhan-Jiangan,20100906
+KP456554,H3N2,HA,Human,Human,China,Hubei-Wuhan-Qiaokou,20100906
 CY108794,H3N2,HA,Human,Human,China,Hubei-Jiangan,20080501
 CY108659,H3N2,HA,Human,Human,China,Hubei-Jiangan,20070122
 CY108788,H3N2,HA,Human,Human,China,Hubei-Jiangan,20080901
@@ -704,17 +704,17 @@ CY108934,H3N2,HA,Human,Human,China,Hubei-Wujiagang,20090811
 CY108746,H3N2,HA,Human,Human,China,Hubei-Wujiagang,20080731
 KP458212,H3N2,HA,Human,Human,China,Hubei-Wujiagang,20080731
 CY108815,H3N2,HA,Human,Human,China,Hubei-Wujiagang,20081118
-KP457253,H3N2,HA,Human,Human,China,Hunan Changde Wuling,20100716
-KP457739,H3N2,HA,Human,Human,China,Hunan Changsha Furong,20100720
-KP459225,H3N2,HA,Human,Human,China,Hunan Chenzhou Beihu,20110311
-KP457138,H3N2,HA,Human,Human,China,Hunan Furong,20070717
-KP458059,H3N2,HA,Human,Human,China,Hunan Furong,20070717
-KP458805,H3N2,HA,Human,Human,China,Hunan Furong,20070103
-KP456627,H3N2,HA,Human,Human,China,Hunan Hengyang Yanfeng,20110414
-KP457892,H3N2,HA,Human,Human,China,Hunan Heshan,20100909
-KP457442,H3N2,HA,Human,Human,China,Hunan Loudi Louxing,20110110
-KP456662,H3N2,HA,Human,Human,China,Hunan Yuetang,20070420
-KP457758,H3N2,HA,Human,Human,China,Hunan Yuhua,20101015
+KP457253,H3N2,HA,Human,Human,China,Hunan-Changde-Wuling,20100716
+KP457739,H3N2,HA,Human,Human,China,Hunan-Changsha-Furong,20100720
+KP459225,H3N2,HA,Human,Human,China,Hunan-Chenzhou-Beihu,20110311
+KP457138,H3N2,HA,Human,Human,China,Hunan-Furong,20070717
+KP458059,H3N2,HA,Human,Human,China,Hunan-Furong,20070717
+KP458805,H3N2,HA,Human,Human,China,Hunan-Furong,20070103
+KP456627,H3N2,HA,Human,Human,China,Hunan-Hengyang-Yanfeng,20110414
+KP457892,H3N2,HA,Human,Human,China,Hunan-Heshan,20100909
+KP457442,H3N2,HA,Human,Human,China,Hunan-Loudi-Louxing,20110110
+KP456662,H3N2,HA,Human,Human,China,Hunan-Yuetang,20070420
+KP457758,H3N2,HA,Human,Human,China,Hunan-Yuhua,20101015
 CY108671,H3N2,HA,Human,Human,China,Hunan-Beihu,20070306
 CY108672,H3N2,HA,Human,Human,China,Hunan-Beihu,20070306
 CY108916,H3N2,HA,Human,Human,China,Hunan-Beihu,20090501
@@ -754,11 +754,11 @@ CY108864,H3N2,HA,Human,Human,China,Hunan-Yuhua,20090120
 CY108669,H3N2,HA,Human,Human,China,Hunan,20070117
 CY108670,H3N2,HA,Human,Human,China,Hunan,20070117
 JX827393,H3N2,HA,Human,Human,China,Huzhou,20120305
-KP456559,H3N2,HA,Human,Human,China,Jiangsu Beitang,20080115
-KP456593,H3N2,HA,Human,Human,China,Jiangsu Nanjing Gulou,20090923
-KP457475,H3N2,HA,Human,Human,China,Jiangsu Wuxi Nanchang,20091019
-KP458070,H3N2,HA,Human,Human,China,Jiangsu Xuzhou Quanshan,20100901
-KP456668,H3N2,HA,Human,Human,China,Jiangsu Xuzhougulou,20070123
+KP456559,H3N2,HA,Human,Human,China,Jiangsu-Beitang,20080115
+KP456593,H3N2,HA,Human,Human,China,Jiangsu-Nanjing-Gulou,20090923
+KP457475,H3N2,HA,Human,Human,China,Jiangsu-Wuxi-Nanchang,20091019
+KP458070,H3N2,HA,Human,Human,China,Jiangsu-Xuzhou-Quanshan,20100901
+KP456668,H3N2,HA,Human,Human,China,Jiangsu-Xuzhougulou,20070123
 KP459293,H3N2,HA,Human,Human,China,Jiangsu-Beitang,20080526
 CY108740,H3N2,HA,Human,Human,China,Jiangsu-Beitang,20080526
 CY108745,H3N2,HA,Human,Human,China,Jiangsu-Beitang,20080704
@@ -807,7 +807,7 @@ CY108694,H3N2,HA,Human,Human,China,Jiangsu-Xuanwu,20070111
 CY108695,H3N2,HA,Human,Human,China,Jiangsu-Xuanwu,20070111
 CY108696,H3N2,HA,Human,Human,China,Jiangsu-Xuanwu,20070111
 CY108881,H3N2,HA,Human,Human,China,Jiangsu-Yunlong,20090219
-KP459008,H3N2,HA,Human,Human,China,Jiangxi Donghu,20101013
+KP459008,H3N2,HA,Human,Human,China,Jiangxi-Donghu,20101013
 CY108900,H3N2,HA,Human,Human,China,Jiangxi-Donghu,20090312
 CY108697,H3N2,HA,Human,Human,China,Jiangxi-Donghu,20070411
 CY108766,H3N2,HA,Human,Human,China,Jiangxi-Donghu,20080401
@@ -919,17 +919,17 @@ KY888529,H3N2,HA,Human,Human,China,JiangxiZhushan,20151231
 KY888530,H3N2,HA,Human,Human,China,JiangxiZhushan,20151231
 KY888527,H3N2,HA,Human,Human,China,JiangxiZhushan,20151231
 KY888531,H3N2,HA,Human,Human,China,JiangxiZhushan,20151231
-KP458422,H3N2,HA,Human,Human,China,Jilin Chaoyang,20071007
-KP456357,H3N2,HA,Human,Human,China,Jilin Chaoyang,20071012
-KP459192,H3N2,HA,Human,Human,China,Jilin Chuanying,20080109
-KP456544,H3N2,HA,Human,Human,China,Jilin Jilin Chuanying,20110303
-KP458307,H3N2,HA,Human,Human,China,Jilin Jilin Chuanying,20091114
-KP458159,H3N2,HA,Human,Human,China,Jilin Nanguan,20070108
+KP458422,H3N2,HA,Human,Human,China,Jilin-Chaoyang,20071007
+KP456357,H3N2,HA,Human,Human,China,Jilin-Chaoyang,20071012
+KP459192,H3N2,HA,Human,Human,China,Jilin-Chuanying,20080109
+KP456544,H3N2,HA,Human,Human,China,Jilin-Jilin-Chuanying,20110303
+KP458307,H3N2,HA,Human,Human,China,Jilin-Jilin-Chuanying,20091114
+KP458159,H3N2,HA,Human,Human,China,Jilin-Nanguan,20070108
 CY108700,H3N2,HA,Human,Human,China,Jilin-Chaoyang,20070112
 CY108790,H3N2,HA,Human,Human,China,Jilin-Nanguan,20080101
-KP456434,H3N2,HA,Human,Human,China,Liaoning Dandong Xigang,20100421
-KP456892,H3N2,HA,Human,Human,China,Liaoning Fuxin Haizhou,20110322
-KP458037,H3N2,HA,Human,Human,China,Liaoning Tiedong,20081204
+KP456434,H3N2,HA,Human,Human,China,Liaoning-Dandong-Xigang,20100421
+KP456892,H3N2,HA,Human,Human,China,Liaoning-Fuxin-Haizhou,20110322
+KP458037,H3N2,HA,Human,Human,China,Liaoning-Tiedong,20081204
 MK583613,H3N2,HA,Avian,Mandarin-duck,China,NA,20150701
 GU907114,H3N2,HA,Human,Human,China,Nanjing,20090410
 HQ664924,H3N2,HA,Human,Human,China,Nanjing,20100910
@@ -1013,7 +1013,7 @@ KY049988,H3N2,HA,Human,Human,China,Qinghai,20100315
 CY108713,H3N2,HA,Human,Human,China,Shaanxi-Beilin,20070117
 CY108714,H3N2,HA,Human,Human,China,Shaanxi-Beilin,20070112
 CY108847,H3N2,HA,Human,Human,China,Shaanxi-Qindu,20090301
-KP457329,H3N2,HA,Human,Human,China,Shandong Lanshan,20101001
+KP457329,H3N2,HA,Human,Human,China,Shandong-Lanshan,20101001
 KR107150,H3N2,HA,Human,Human,China,Shandong-Bincheng,20101212
 MF593713,H3N2,HA,Human,Human,China,Shandong-Fushan,20150305
 MF593743,H3N2,HA,Human,Human,China,Shandong-Fushan,20170307
@@ -1117,24 +1117,24 @@ MF593720,H3N2,HA,Human,Human,China,Shandong-Zhifu,20160203
 MF593728,H3N2,HA,Human,Human,China,Shandong-Zhifu,20170207
 MF593733,H3N2,HA,Human,Human,China,Shandong-Zhifu,20161117
 MF593700,H3N2,HA,Human,Human,China,Shandong-Zhifu,20141124
-KP457577,H3N2,HA,Human,Human,China,Shanghai Baoshan,20101007
-KP456622,H3N2,HA,Human,Human,China,Shanghai Fengxian,20090914
-KP457511,H3N2,HA,Human,Human,China,Shanghai Jinshan,20110103
-KP458351,H3N2,HA,Human,Human,China,Shanghai Luwan,20100707
-KP459355,H3N2,HA,Human,Human,China,Shanghai Luwan,20100908
-KP459035,H3N2,HA,Human,Human,China,Shanghai Luwan,20100908
-KP456573,H3N2,HA,Human,Human,China,Shanghai Luwan,20100914
-KP456595,H3N2,HA,Human,Human,China,Shanghai Luwan,20100919
-KP457102,H3N2,HA,Human,Human,China,Shanghai Luwan,20100917
-KP457237,H3N2,HA,Human,Human,China,Shanghai Luwan,20110214
-KP458427,H3N2,HA,Human,Human,China,Shanghai Nanhui,20090713
-CY108929,H3N2,HA,Human,Human,China,Shanghai Nanhui,20090701
-CY108882,H3N2,HA,Human,Human,China,Shanghai Nanhui,20090223
-KP457550,H3N2,HA,Human,Human,China,Shanghai Nanhui,20090222
-KP458242,H3N2,HA,Human,Human,China,Shanghai Nanhui,20090312
-CY108899,H3N2,HA,Human,Human,China,Shanghai Nanhui,20090312
-KP458365,H3N2,HA,Human,Human,China,Shanghai Pudong Xin,20101128
-KP458573,H3N2,HA,Human,Human,China,Shanghai Pudongxin,20080312
+KP457577,H3N2,HA,Human,Human,China,Shanghai-Baoshan,20101007
+KP456622,H3N2,HA,Human,Human,China,Shanghai-Fengxian,20090914
+KP457511,H3N2,HA,Human,Human,China,Shanghai-Jinshan,20110103
+KP458351,H3N2,HA,Human,Human,China,Shanghai-Luwan,20100707
+KP459355,H3N2,HA,Human,Human,China,Shanghai-Luwan,20100908
+KP459035,H3N2,HA,Human,Human,China,Shanghai-Luwan,20100908
+KP456573,H3N2,HA,Human,Human,China,Shanghai-Luwan,20100914
+KP456595,H3N2,HA,Human,Human,China,Shanghai-Luwan,20100919
+KP457102,H3N2,HA,Human,Human,China,Shanghai-Luwan,20100917
+KP457237,H3N2,HA,Human,Human,China,Shanghai-Luwan,20110214
+KP458427,H3N2,HA,Human,Human,China,Shanghai-Nanhui,20090713
+CY108929,H3N2,HA,Human,Human,China,Shanghai-Nanhui,20090701
+CY108882,H3N2,HA,Human,Human,China,Shanghai-Nanhui,20090223
+KP457550,H3N2,HA,Human,Human,China,Shanghai-Nanhui,20090222
+KP458242,H3N2,HA,Human,Human,China,Shanghai-Nanhui,20090312
+CY108899,H3N2,HA,Human,Human,China,Shanghai-Nanhui,20090312
+KP458365,H3N2,HA,Human,Human,China,Shanghai-Pudong-Xin,20101128
+KP458573,H3N2,HA,Human,Human,China,Shanghai-Pudongxin,20080312
 CY108711,H3N2,HA,Human,Human,China,Shanghai-Jingan,20070118
 CY108901,H3N2,HA,Human,Human,China,Shanghai-Nanhui,20090319
 CY108853,H3N2,HA,Human,Human,China,Shanghai-Nanhui,20090401
@@ -1235,9 +1235,9 @@ GU068344,H3N2,HA,Human,Human,China,Shanghai,20080313
 GU068345,H3N2,HA,Human,Human,China,Shanghai,20080324
 GU068361,H3N2,HA,Human,Human,China,Shanghai,20080901
 JQ220541,H3N2,HA,Human,Human,China,Shantou,20101206
-KP458083,H3N2,HA,Human,Human,China,Shanxi Taiyuan Xinghualing,20090921
-KP456542,H3N2,HA,Human,Human,China,Shanxi Yingze,20070112
-CY108723,H3N2,HA,Human,Human,China,Shanxi Yingze,20070112
+KP458083,H3N2,HA,Human,Human,China,Shanxi-Taiyuan-Xinghualing,20090921
+KP456542,H3N2,HA,Human,Human,China,Shanxi-Yingze,20070112
+CY108723,H3N2,HA,Human,Human,China,Shanxi-Yingze,20070112
 CY108753,H3N2,HA,Human,Human,China,Shanxi-Chengqu,20080301
 CY108715,H3N2,HA,Human,Human,China,Shanxi-Chengqu,20070210
 CY108716,H3N2,HA,Human,Human,China,Shanxi-Chengqu,20070213
@@ -1251,10 +1251,10 @@ CY108821,H3N2,HA,Human,Human,China,Shanxi-Yaodu,20081219
 CY108722,H3N2,HA,Human,Human,China,Shanxi-Yingze,20070118
 CY108829,H3N2,HA,Human,Human,China,Shanxi-Yingze,20090101
 CY108844,H3N2,HA,Human,Human,China,Shanxi-Yingze,20090201
-CY108812,H3N2,HA,Human,Human,China,Sichuan Qingyang,20081104
-KP457654,H3N2,HA,Human,Human,China,Sichuan Qingyang,20081104
-KP457947,H3N2,HA,Human,Human,China,Sichuan Qingyang,20100927
-KP458669,H3N2,HA,Human,Human,China,Sichuan Yucheng,20100906
+CY108812,H3N2,HA,Human,Human,China,Sichuan-Qingyang,20081104
+KP457654,H3N2,HA,Human,Human,China,Sichuan-Qingyang,20081104
+KP457947,H3N2,HA,Human,Human,China,Sichuan-Qingyang,20100927
+KP458669,H3N2,HA,Human,Human,China,Sichuan-Yucheng,20100906
 CY108893,H3N2,HA,Human,Human,China,Sichuan-Anyue,20090308
 CY108805,H3N2,HA,Human,Human,China,Sichuan-Jingyang,20081013
 CY108779,H3N2,HA,Human,Human,China,Sichuan-Jingyang,20081001
@@ -1268,30 +1268,30 @@ CY108860,H3N2,HA,Human,Human,China,Sichuan-Yucheng,20090106
 CY108887,H3N2,HA,Human,Human,China,Sichuan-Yucheng,20090302
 CY108906,H3N2,HA,Human,Human,China,Sichuan-Yucheng,20090326
 KF034879,H3N2,HA,Human,Human,China,Suzhou,20130404
-KP458472,H3N2,HA,Human,Human,China,Tianjin Binhai,20100330
-KP457148,H3N2,HA,Human,Human,China,Tianjin Hedong,20080106
-KP458309,H3N2,HA,Human,Human,China,Tianjin Hedong,20110215
-KP457129,H3N2,HA,Human,Human,China,Tianjin Hexi,20100512
-KP456458,H3N2,HA,Human,Human,China,Tianjin Hexi,20101007
-KP457342,H3N2,HA,Human,Human,China,Tianjin Hexi,20101010
-KP458211,H3N2,HA,Human,Human,China,Tianjin Hexi,20091123
-KP456842,H3N2,HA,Human,Human,China,Tianjin Hexi,20110110
-KP458046,H3N2,HA,Human,Human,China,Tianjin Hexi,20091208
-KP457332,H3N2,HA,Human,Human,China,Tianjin Hexi,20100105
-KP457272,H3N2,HA,Human,Human,China,Tianjin Hongqiao,20090303
-KP456586,H3N2,HA,Human,Human,China,Tianjin Hongqiao,20080401
-KP459058,H3N2,HA,Human,Human,China,Tianjin Jinnan,20110112
-KP459004,H3N2,HA,Human,Human,China,Tianjin Jinnan,20070103
-KP457939,H3N2,HA,Human,Human,China,Tianjin Jinnan,20080402
-KP457632,H3N2,HA,Human,Human,China,Tianjin Jinnan,20080414
-KP456943,H3N2,HA,Human,Human,China,Tianjin Nankai,20080107
-KP458841,H3N2,HA,Human,Human,China,Tianjin Nankai,20081230
-KP458099,H3N2,HA,Human,Human,China,Tianjin Nankai,20100111
-KP458847,H3N2,HA,Human,Human,China,Tianjin Nankai,20100301
-KP458492,H3N2,HA,Human,Human,China,Tianjin Nankai,20100324
-KP456990,H3N2,HA,Human,Human,China,Tianjin Ninghe,20091027
-KP456291,H3N2,HA,Human,Human,China,Tianjin Ninghe,20091027
-KP459337,H3N2,HA,Human,Human,China,Tianjin Tanggu,20091110
+KP458472,H3N2,HA,Human,Human,China,Tianjin-Binhai,20100330
+KP457148,H3N2,HA,Human,Human,China,Tianjin-Hedong,20080106
+KP458309,H3N2,HA,Human,Human,China,Tianjin-Hedong,20110215
+KP457129,H3N2,HA,Human,Human,China,Tianjin-Hexi,20100512
+KP456458,H3N2,HA,Human,Human,China,Tianjin-Hexi,20101007
+KP457342,H3N2,HA,Human,Human,China,Tianjin-Hexi,20101010
+KP458211,H3N2,HA,Human,Human,China,Tianjin-Hexi,20091123
+KP456842,H3N2,HA,Human,Human,China,Tianjin-Hexi,20110110
+KP458046,H3N2,HA,Human,Human,China,Tianjin-Hexi,20091208
+KP457332,H3N2,HA,Human,Human,China,Tianjin-Hexi,20100105
+KP457272,H3N2,HA,Human,Human,China,Tianjin-Hongqiao,20090303
+KP456586,H3N2,HA,Human,Human,China,Tianjin-Hongqiao,20080401
+KP459058,H3N2,HA,Human,Human,China,Tianjin-Jinnan,20110112
+KP459004,H3N2,HA,Human,Human,China,Tianjin-Jinnan,20070103
+KP457939,H3N2,HA,Human,Human,China,Tianjin-Jinnan,20080402
+KP457632,H3N2,HA,Human,Human,China,Tianjin-Jinnan,20080414
+KP456943,H3N2,HA,Human,Human,China,Tianjin-Nankai,20080107
+KP458841,H3N2,HA,Human,Human,China,Tianjin-Nankai,20081230
+KP458099,H3N2,HA,Human,Human,China,Tianjin-Nankai,20100111
+KP458847,H3N2,HA,Human,Human,China,Tianjin-Nankai,20100301
+KP458492,H3N2,HA,Human,Human,China,Tianjin-Nankai,20100324
+KP456990,H3N2,HA,Human,Human,China,Tianjin-Ninghe,20091027
+KP456291,H3N2,HA,Human,Human,China,Tianjin-Ninghe,20091027
+KP459337,H3N2,HA,Human,Human,China,Tianjin-Tanggu,20091110
 CY108725,H3N2,HA,Human,Human,China,Tianjin-Hedong,20070102
 CY108806,H3N2,HA,Human,Human,China,Tianjin-Hedong,20081019
 CY108726,H3N2,HA,Human,Human,China,Tianjin-Hedong,20070102
@@ -1322,8 +1322,8 @@ KY273063,H3N2,HA,Human,Human,China,Xiamen,20150713
 KY273066,H3N2,HA,Human,Human,China,Xiamen,20150824
 CY108823,H3N2,HA,Human,Human,China,Xinjiang-Hutubi,20081223
 CY108828,H3N2,HA,Human,Human,China,Xinjiang-Hutubi,20090101
-KP457974,H3N2,HA,Human,Human,China,Xinjing Tulufan,20080113
-KP458953,H3N2,HA,Human,Human,China,Yunnan Xishan,20100906
+KP457974,H3N2,HA,Human,Human,China,Xinjing-Tulufan,20080113
+KP458953,H3N2,HA,Human,Human,China,Yunnan-Xishan,20100906
 CY108728,H3N2,HA,Human,Human,China,Yunnan-Anning,20070402
 CY108903,H3N2,HA,Human,Human,China,Yunnan-Chuxiong,20090323
 CY108792,H3N2,HA,Human,Human,China,Yunnan-Chuxiong,20080701
