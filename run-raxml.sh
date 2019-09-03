@@ -1,0 +1,1 @@
+raxmlHPC -­s ./data/Relabeled_H5_HA_Egypt_Avian-Human.fasta -­m GTRGAMMA -­p 12345 ­-n test-raxml

@@ -1,8 +1,8 @@
 import pandas as pd
 import numpy as np
-import subprocess
+import fileinput
 
-def data_preprocessing (path = "data/flu.txt", output_path = 'data/informative_labels.txt'):
+def data_preprocessing (path = "data/metadata_H5_avian-human.txt", output_path = 'data/informative_labels.txt'):
     """Processes metadata that is given by NCBI Influenza database. 
     
     This function was designed specifically for this research endeavor and
@@ -47,14 +47,14 @@ def data_preprocessing (path = "data/flu.txt", output_path = 'data/informative_l
         if name_len == 4:
             taxa.append("NA")
             city = data.name[i].split("/")[1]
-            if city == "china" or city == "China":
+            if city == "egypt" or city == "Egypt":
                 cities.append("NA")
             else:
                 cities.append(city)
         elif name_len == 5:
             taxa.append(data.name[i].split("/")[1])
             city = data.name[i].split("/")[2]
-            if city == "china" or city == "China":
+            if city == "egypt" or city == "Egypt":
                 cities.append("NA")
             else:
                 cities.append(city)
@@ -62,6 +62,7 @@ def data_preprocessing (path = "data/flu.txt", output_path = 'data/informative_l
     data["cities"] = cities
     data["host_taxa"] = taxa
 
+    data.accession = data.accession.astype(str) + ".1" 
     data.segment = data.segment.replace(to_replace = "4 (HA)", value = "HA")
     for i in range(0, len(data.host_taxa)):
         if data.host_taxa[i] == "NA":
@@ -75,10 +76,23 @@ def data_preprocessing (path = "data/flu.txt", output_path = 'data/informative_l
 
     labels = data[['accession', 'serotype', 'segment', 'host', 'host_taxa','country','cities','date']]
 
-    labels.to_csv(path_or_buf = output_path, index = False, header = False)
+    labels.to_csv(path_or_buf = output_path, 
+                  index = False, 
+                  header = False, 
+                  sep = "|")
+    
+    tmp = open(file = "data/informative_labels.txt", mode = "r")
+    new_labels = [">" + x for x in tmp.readlines()]
+    seq_count = 0
+    for line in fileinput.FileInput("data/Relabeled_H5_HA_Egypt_Avian-Human.fasta", inplace=True):
+        if line[0] == ">":
+            print(line.replace(line, new_labels[seq_count]), end="")
+            seq_count += 1
+        else:
+            print(line, end="")
 
 def main ():
-    metadata = data_preprocessing(path = "data/flu.txt", output_path = 'data/informative_labels.txt')
+    data_preprocessing(path = "data/metadata_H5_avian-human.txt", output_path = 'data/informative_labels.txt')
 
-
-
+main()    
+                
