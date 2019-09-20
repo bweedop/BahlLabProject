@@ -1,5 +1,0 @@
-# 08-29-2019 - Removing Low Pathogenic Sequences
-
-A number of the sequences in the initial set of accessions that I retrieved from GenBank were low pathogenic H5N1 rather than the high pathogenic genotype. I have listed those sequences in the file located at `data/rm-accessions_deletions-at-1027.txt
-
-## 
