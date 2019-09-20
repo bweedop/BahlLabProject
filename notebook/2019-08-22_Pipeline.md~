@@ -1,0 +1,51 @@
+# 08-22-2019 - Pipeline
+
+There are multiple steps that go into producing the results from any phylogenetic analysis. Many analyses follow the same general steps from getting sequence data from a public database such as GenBank all the way to making your ultimate tree interpretable with colors and labels. However, in order to reproduce my same results, you will want to follow along and run the commands that I have outlined below. 
+
+## Getting the data
+
+I have the accession numbers for all the sequences in the `./data/accession-list_H5_avian-human.fa` file. I have made a bash script (`./src/accessions-to-aligned.sh`) that will take you from this list of accesssions to a MAFFT aligned FASTA file. This is done by going through the following steps: 
+
+1. Formatting the accessions file in order to download all of the sequence data for these accessions with a batch downlaod.
+2. Run the newly formatted file that download the sequence data for all the accession numbers.
+3. Run MAFFT on the sequence data file and output the results to `aligned_H5_egypt_avian-human.fasta`
+
+You can run this file from the base directory using the following command:
+
+```{bash}
+sh src/accessions-to-aligned.sh data/accession-list_H5_avian-human.fa
+```
+
+Running this command will propagate the data folder with a number of files. The one that is most important is the alignment output (`data/Aligned_H5_HA_Egypt_Avian-Human.fasta`) from MAFFT. 
+
+## Cleaning the data
+
+### Cleaning the Alignment
+
+We need to clean things up a bit after we get the alignment file. For our purposes, we need to go into the alignment file, clean up the alignment, and trim off the loose ends before and after the start and stop codon. For this step, I used BioEdit. I didn't notice that the alignment needed adjusted at all (I may be wrong on this given the subjectivity) but feel free to go in and do this where you see fit. As for trimming the loose ends, I went to a reference sequence for H5 influenza on GenBank to look at the CDS and get the start and stop codons. 
+
+After aligning the sequences (if you have downloaded all of the sequences in `data/accession-list_H5_avian-human.fa` rather than the subset), you will find that there are a few sequences that have gaps at positions 1027 and 1033. These sequences are from low pathogenic H5N1. These sequences should be removed prior to running RAxML. You can read more about why in `notebook/2019-08-22_Removing-Low-Path-Sequences.md`.
+
+After removing the low pathogenic sequences you should be just trimming off the ends before and after the start and stop codons, respectively. I could probably write a script for this step. I didn't do this but this would be something that could be done in Python.
+
+### Cleaning the Metadata
+
+The next data processing step that needs to happen is cleaning up the metadata and creating some more informative labels for our sequences. To create the informative labels, I wrote a short script to take the metadata downloaded from NCBI and, parse the data that is wanted, and reaarrange it in the desired format. I used the following format: 
+
+`>`
+
+## Preliminary Analysis: RAxML
+
+### Running RAxML
+
+I have made a script (`src/run-raxml.sh`) with the command that I used to run RAxML over the course of the analysis. It is a simple run of RAxML without bootstrapping or partitions. Bootstrapping might have been a good method to apply through the analysis in order to get confidence values for the edges and clades. However, this increases the time completion of the run in some cases days or even weeks. For the given project, I was willing to compromise here for practicality.
+
+Duplicate sequences were found by RAxML 
+
+### Rooting the Tree and Outlier detection
+
+
+
+## BEAST Analysis
+
+### 
