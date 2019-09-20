@@ -1,5 +1,0 @@
-#!bin/bash
-
-raxmlHPC -m GTRGAMMA -p 12345 -#20 -s $1 -n T13
-raxmlHPC -m GTRGAMMA -p 12345 -b 12345 -#100 -s $1 -n T14
-raxmlHPC -m GTRCAT -p 12345 -f b -t RAxML_bestTree.T13 -z RAxML_bootstrap.T14 -n T15

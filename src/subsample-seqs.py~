@@ -1,4 +1,0 @@
-import sys, random
-from Bio import SeqIO
-
-
